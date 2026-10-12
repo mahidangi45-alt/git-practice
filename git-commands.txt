@@ -1,0 +1,8 @@
+
+Git Commands I Learned
+
+1. git init - Creates a Git repository.
+2. git status - Shows the current repository status.
+3. git add - Stages changes.
+4. git commit - Saves changes in the repository history.
+5. git log --oneline - Shows a short commit history.
