@@ -1,0 +1,6 @@
+1. Git is a version control system.
+
+
+2. A repository stores files and tracks their history.
+
+3. Git commits save snapshots of changes.
