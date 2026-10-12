@@ -4,3 +4,5 @@
 2. A repository stores files and tracks their history.
 
 3. Git commits save snapshots of changes.
+
+4. The git status command shows the current state of the repository.
