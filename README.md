@@ -10,7 +10,7 @@
 
 #### 
 
-#### I am learning Git and GitHub during my internship.
+#### I am practicing Git and GitHub - Version B.
 
 #### 
 
