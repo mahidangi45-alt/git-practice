@@ -1,0 +1,8 @@
+My Technical Skills
+
+1. Python
+2. C and C++
+3. HTML and CSS
+4. JavaScript
+5. SQL and DBMS
+6. Git and GitHub
