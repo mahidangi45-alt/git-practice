@@ -14,3 +14,9 @@
 
 #### I want to practice Git and GitHub more.
 
+
+
+I learned that git restore discards uncommitted changes to a tracked file.
+
+I learned that git revert creates a new commit to undo a previous commit.
+
