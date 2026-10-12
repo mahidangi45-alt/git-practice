@@ -16,3 +16,11 @@
 
 #### My goal is to improve my programming and web development skills.
 
+
+
+
+
+### 
+
+### I am practicing Git commands as part of my internship.
+
