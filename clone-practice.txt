@@ -1,0 +1,3 @@
+This file was created in the cloned repository.
+
+I learned how to clone a GitHub repository and work on it from another folder.
